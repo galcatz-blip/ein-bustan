@@ -150,6 +150,17 @@
   }
   .card h3:first-of-type { margin-top: 0; }
 
+  /* highlighted card: same colour treatment as the save-the-date banner,
+     but keeps card typography and alignment so body copy stays readable */
+  .card.highlight {
+    background: var(--pink-callout);
+    border: 2px solid var(--coral);
+  }
+
+  /* phone numbers and addresses are LTR runs inside RTL text, and the hyphen
+     inside a number is a legal break point, so pin them to one line */
+  a[href^="tel:"], a[href^="mailto:"] { white-space: nowrap; }
+
   /* good news block (Dana) */
   .goodnews {
     background: var(--paper);
@@ -327,7 +338,7 @@
 
     <div class="divider" role="presentation"><svg width="26" height="26" viewBox="0 0 26 26" fill="none" aria-hidden="true"><path d="M13 22 V11" stroke="#DE8791" stroke-width="1.8" stroke-linecap="round"/><path d="M13 13 C13 8.5 9.5 6.5 6 6.5 C6.5 11 9.5 12.8 13 12.8Z" fill="#DE8791" opacity="0.55"/><path d="M13 11 C13 6.5 16.5 4.5 20 4.5 C19.5 9 16.5 10.8 13 10.8Z" fill="#DE8791"/></svg></div>
 
-    <section class="card" aria-label="גיוס מנהל/ת לעמותה">
+    <section class="card highlight" aria-label="גיוס מנהל/ת לעמותה">
       <h2>מחפשים מנהל/ת לעמותה</h2>
       <p>יצאנו לדרך בגיוס. עין בוסתן מחפשת מנהל/ת לעמותה: ניהול שוטף, ליווי מקצועי של צוות הגנים, אחריות על התקציב, גיוס תרומות, ועבודה מול הרשויות, ההורים והקהילה. משרה מלאה בבסמת טבעון, עם אפשרות לעבודה היברידית.</p>
       <p>אם אתם מכירים מישהי או מישהו שיכולים להתאים, זו העזרה הכי טובה שאפשר לתת לנו עכשיו. העבירו הלאה.</p>
@@ -410,7 +421,7 @@
 
     <div class="divider" role="presentation"><svg width="26" height="26" viewBox="0 0 26 26" fill="none" aria-hidden="true"><path d="M13 22 V11" stroke="#DE8791" stroke-width="1.8" stroke-linecap="round"/><path d="M13 13 C13 8.5 9.5 6.5 6 6.5 C6.5 11 9.5 12.8 13 12.8Z" fill="#DE8791" opacity="0.55"/><path d="M13 11 C13 6.5 16.5 4.5 20 4.5 C19.5 9 16.5 10.8 13 10.8Z" fill="#DE8791"/></svg></div>
 
-    <section class="card" aria-label="تجنيد مدير/ة للجمعية">
+    <section class="card highlight" aria-label="تجنيد مدير/ة للجمعية">
       <h2>نبحث عن مدير/ة للجمعية</h2>
       <p>انطلقنا في التجنيد. تبحث عين بستان عن مدير/ة للجمعية: الإدارة اليومية، المرافقة المهنية لطاقم الروضات، المسؤولية عن الميزانية، جمع التبرعات، والعمل مع الجهات الرسمية والأهالي والمجتمع. وظيفة كاملة في بسمة طبعون، مع إمكانية العمل الهجين.</p>
       <p>إذا كنتم تعرفون من قد يناسب هذا المنصب، فهذه أفضل مساعدة يمكن تقديمها لنا الآن. مرّروا الخبر لمن تعرفون.</p>
