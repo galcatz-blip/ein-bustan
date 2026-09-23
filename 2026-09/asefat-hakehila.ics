@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Ein Bustan//Newsletter//HE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:asefat-hakehila-20261015@ein-bustan
+DTSTAMP:20260923T000000Z
+DTSTART:20261015T200000
+DURATION:PT2H
+SUMMARY:אסיפת הקהילה - עמותת מעיין בבוסתן
+DESCRIPTION:הרצאה של מוחמד מרזוק\, מנכ"ל עמותת מ
+ וסדות חינוך נווה שלום ואחת אל-סלאם. נאשר 
+ באסיפה גם את הדוח הכספי והתקציב. המיקום י
+ עודכן בהמשך.
+LOCATION:המיקום יעודכן בהמשך
+END:VEVENT
+END:VCALENDAR

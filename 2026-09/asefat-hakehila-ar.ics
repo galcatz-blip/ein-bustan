@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Ein Bustan//Newsletter//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:asefat-hakehila-20261015@ein-bustan
+DTSTAMP:20260923T000000Z
+DTSTART:20261015T200000
+DURATION:PT2H
+SUMMARY:لقاء المجتمع - جمعية عين بستان
+DESCRIPTION:محاضرة لمحمد مرزوق، مدير عام جمعية
+  مؤسسات التربية في واحة السلام - نفيه شال
+ وم. سنصادق في اللقاء أيضًا على التقرير ال
+ مالي والميزانية. سنخبركم عن المكان لاحقً
+ ا.
+LOCATION:سنخبركم عن المكان لاحقًا
+END:VEVENT
+END:VCALENDAR
