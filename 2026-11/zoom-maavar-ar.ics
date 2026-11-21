@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Ein Bustan//Newsletter//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:zoom-maavar-20261126@ein-bustan
+DTSTAMP:20261121T000000Z
+DTSTART:20261126T210000
+DURATION:PT1H
+SUMMARY:لقاء زوم للتحضير للانتقال إلى الروضة
+  الجديدة - جمعية عين بستان
+DESCRIPTION:لقاء زوم للتحضير لانتقال روضة دالي
+ ا إلى المبنى الجديد. رابط الزوم: https://us06web.
+ zoom.us/j/86883529497?pwd=X3Wo4oG3hbFbYhQNerCafSrai3DeXS.1
+LOCATION:https://us06web.zoom.us/j/86883529497?pwd=X3Wo4oG3hbFbYhQNerCafSra
+ i3DeXS.1
+URL:https://us06web.zoom.us/j/86883529497?pwd=X3Wo4oG3hbFbYhQNerCafSrai3DeX
+ S.1
+END:VEVENT
+END:VCALENDAR

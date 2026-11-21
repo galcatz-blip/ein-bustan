@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Ein Bustan//Newsletter//HE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:erev-marzuk-20270113@ein-bustan
+DTSTAMP:20261121T000000Z
+DTSTART:20270113T203000
+DURATION:PT1H30M
+SUMMARY:ערב עם מוחמד מרזוק - עמותת מעיין בבוס
+ תן
+DESCRIPTION:מוחמד מרזוק מנהל את מוסדות החינוך 
+ של נווה שלום ואחת אל-סלאם\, ועוסק כבר שלוש
+ ים שנה בחיים משותפים של יהודים וערבים. הו
+ א יפתח בכמה מילים על שיח ודיאלוג בקהילה מ
+ שותפת\, בעיקר בתקופה של משבר\, ומשם נמשיך 
+ לשיחה פתוחה בינינו.
+LOCATION:גן דאליה
+END:VEVENT
+END:VCALENDAR

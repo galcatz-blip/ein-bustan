@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Ein Bustan//Newsletter//HE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:zoom-maavar-20261126@ein-bustan
+DTSTAMP:20261121T000000Z
+DTSTART:20261126T210000
+DURATION:PT1H
+SUMMARY:זום היערכות למעבר לגן החדש - עמותת מע
+ יין בבוסתן
+DESCRIPTION:זום היערכות למעבר של גן דאליה למבנ
+ ה החדש. קישור לזום: https://us06web.zoom.us/j/86883529497?pw
+ d=X3Wo4oG3hbFbYhQNerCafSrai3DeXS.1
+LOCATION:https://us06web.zoom.us/j/86883529497?pwd=X3Wo4oG3hbFbYhQNerCafSra
+ i3DeXS.1
+URL:https://us06web.zoom.us/j/86883529497?pwd=X3Wo4oG3hbFbYhQNerCafSrai3DeX
+ S.1
+END:VEVENT
+END:VCALENDAR
